@@ -3,8 +3,8 @@ const chalk = require('chalk')
 //Feel free to customize my bot informations to yours. Starting from this point
 //owmner v card
 global.ytname = "YT: sammie.me" //ur yt chanel name
-global.socialm = "GitHub: Elite-MD" //ur github or insta name
-global.location = "Port Harcourt, Nigeria" //ur location
+global.socialm = "GitHub: sammieboi321" //ur github or insta name
+global.location = "lagos , Nigeria" //ur location
 
 //new settings 
 global.botname = 'sammie.me' //ur bot name
@@ -20,7 +20,7 @@ global.packname = "Sticker By"
 global.author = "ELITE-PRO-V2\n\n+2348109263390"
 global.creator = "2348109263390@s.whatsapp.net"
 global.xprefix = '.' //set any prefix 
-global.premium = ["2348109263390"] // Premium User
+global.premium = ["2349074614697"] // Premium User
 //Stop here. Thanks for choosing ELITEPRO.
 
 
