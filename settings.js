@@ -34,7 +34,7 @@ global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
 global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.groupevent = true  //show update messages in group chat
 
 //Global messages
 global.mess = {
